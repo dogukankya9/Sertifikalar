@@ -14,7 +14,7 @@ Bu depoda, eğitim süreçlerimde tamamladığım programlara ait sertifikalar v
 * **Kariyer ve Yetkinlik Buluşmaları**
   * **Kurum:** Savunma Sanayii Başkanlığı (SSB)
   * **Yeterlilik Kimliği:** `UN_0414771012028112887`
-  * **Belge:** [Görüntüle (PDF)](./Kariyer_ve_Yetkinlik_Bulusmalari.pdf)
+  * **Belge:** [Görüntüle (PDF)](./Kariyer ve Yetkinlik Buluşmaları.pdf)
 
 * **C Programlama Dili**
   * **Kurum:** BTK Akademi
