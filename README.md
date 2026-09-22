@@ -25,9 +25,9 @@ Bu depoda, eğitim süreçlerimde tamamladığım programlara ait sertifikalar, 
   * **Kurum:** BTK Akademi (Bilgi Teknolojileri ve İletişim Kurumu)
   * **Tamamlanma Tarihi:** 30.01.2025
   * **Sertifika No:** `jK1hKeGB1p`
-  * **Belge:** [Görüntüle (Görsel)](./C%20Programlama%20Dili.jpg)
+  * **Belge:** [Görüntüle](./c_programlama.jpg)
 
 * **GENÇ 2030 Projesi - Dijital Yetkinlikler ve Yapay Zekâ Eğitimi**
   * **Kurum:** T.C. Gençlik ve Spor Bakanlığı
   * **Sertifika No:** `43895764810480`
-  * **Belge:** [Görüntüle (Görsel)](./Genc_2030_Yapay_Zeka.jpg)
+  * **Belge:** [Görüntüle](./genc_2030.jpg)
